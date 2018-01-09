@@ -27,3 +27,6 @@ skicka download /YOUR/GOOGLE/DRIVE/FILE /YOUR/LOCAL/DIR/
 # Exit the container
 exit
 ```
+
+## LICENSE
+This project is [MIT Licensed](https://github.com/yakigac/skicka-docker/blob/master/LICENSE).
