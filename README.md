@@ -1,7 +1,7 @@
 # skicka-docker
-Skicka is a command-line utility for working with Google Drive.
+[Skicka](https://github.com/google/skicka) is a command-line utility for working with Google Drive.
 
-This project allows you to use [skicka](https://github.com/google/skicka) through docker.
+This project allows you to use skicka through docker.
 
 
 ## Prerequisites
