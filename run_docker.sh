@@ -1,5 +1,5 @@
 #!/bin/bash
 docker run --rm  -it \
--v $(pwd):/workdir -w /workdir \
+-v ~:/root -w /root \
 yakigac/skicka \
 "$@"
