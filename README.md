@@ -8,6 +8,7 @@ This project allows you to use skicka through docker.
 - docker
 
 ## Initialization
+You need `run_docker.sh` only, docker will automatically pull the image from docker hub.
 ```
 # Make config files into your home dir
 ./run_docker.sh skicka init
